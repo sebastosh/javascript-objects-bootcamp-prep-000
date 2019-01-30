@@ -1,5 +1,5 @@
 var playlist = {
-  breakfast: 'oatmeal',
-  lunch: 'burrito',
-  dinner: 'steak'
+  Elvis: 'Don\'t be Cruel',
+  Devo: 'some song',
+  MrOizo: 'Steack'
 }
